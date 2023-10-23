@@ -1,2 +1,2 @@
 # FirstFile
-MyFirstGit
+MyFirstGitRepository
